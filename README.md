@@ -354,7 +354,7 @@ This project is created for demonstration purposes.
 
 ## 👥 Contributors
 
-- Your Name
+- jm_ohit
 
 ## 🙏 Acknowledgments
 
